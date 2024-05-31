@@ -16,6 +16,7 @@ Data-pack Helper Plus can provide many heavy language features for documents in 
 
 If you like this extension, please consider [sponsoring](https://github.com/sponsors/SPGoding) me. You can also report bugs, suggest features, and help translations! See [CONTRIBUTING.md](https://github.com/SPGoding/datapack-language-server/blob/master/CONTRIBUTING.md) for more information.
 
+- [Notice](#notice)
 - [Disclaimer](#disclaimer)
 - [Installation](#installation)
 - [Features](#features)
@@ -39,6 +40,12 @@ If you like this extension, please consider [sponsoring](https://github.com/spon
    - [Renaming](#renaming)
    - [Configuration Settings](#configuration-settings)
    - [Regenerating Cache](#regenerating-cache)
+
+# Notice
+
+This extension is undergoing a complete rewrite. Track its progress [here](https://github.com/SpyglassMC/Spyglass/milestone/41).
+
+### 🚨 We will not support Minecraft versions after 1.20.5 until the rewrite is complete 🚨
 
 # Disclaimer
 
